@@ -10,6 +10,7 @@ namespace Solution_BE_NET
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Xin chào khoá học BE_NET");
         }
     }
 }
