@@ -1,0 +1,11 @@
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.exe.config
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.exe
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.pdb
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.exe
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.pdb
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.exe.config
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.csproj.AssemblyReference.cache
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.csproj.CoreCompileInputs.cache
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\obj\Debug\ConsoleA.864AB152.Up2Date
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.exe
+D:\HocTap\BE_NET\Solution_BE_NET\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.pdb

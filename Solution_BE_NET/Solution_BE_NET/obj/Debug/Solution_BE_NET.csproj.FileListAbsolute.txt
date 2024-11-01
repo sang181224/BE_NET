@@ -1,0 +1,7 @@
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\bin\Debug\Solution_BE_NET.exe.config
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\bin\Debug\Solution_BE_NET.exe
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\bin\Debug\Solution_BE_NET.pdb
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\obj\Debug\Solution_BE_NET.csproj.AssemblyReference.cache
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\obj\Debug\Solution_BE_NET.csproj.CoreCompileInputs.cache
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\obj\Debug\Solution_BE_NET.exe
+D:\HocTap\BE_NET\Solution_BE_NET\Solution_BE_NET\obj\Debug\Solution_BE_NET.pdb

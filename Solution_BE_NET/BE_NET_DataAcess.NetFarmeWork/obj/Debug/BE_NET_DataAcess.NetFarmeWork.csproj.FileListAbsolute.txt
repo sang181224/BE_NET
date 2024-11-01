@@ -1,0 +1,7 @@
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.exe.config
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.exe
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\bin\Debug\BE_NET_DataAcess.NetFarmeWork.pdb
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\obj\Debug\BE_NET_DataAcess.NetFarmeWork.csproj.AssemblyReference.cache
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\obj\Debug\BE_NET_DataAcess.NetFarmeWork.csproj.CoreCompileInputs.cache
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\obj\Debug\BE_NET_DataAcess.NetFarmeWork.exe
+D:\HocTap\BE_NET\Solution_BE_NET\BE_NET_DataAcess.NetFarmeWork\obj\Debug\BE_NET_DataAcess.NetFarmeWork.pdb
