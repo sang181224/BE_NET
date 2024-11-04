@@ -16,10 +16,17 @@ namespace BE_NET_DataAcess.NetFarmeWork.Common
             {
                 Console.Write(inputCheck);
                 string nhap = Console.ReadLine();
-                string mau = @"^-?\d+(\.\d+)?$";
+                string mau = @"^\d+(\.\d+)?$";
                 Regex regex = new Regex(mau);
                 if (regex.IsMatch(nhap) && double.TryParse(nhap, out so)){
-                    return so;
+                    if (so > double.MaxValue)
+                    {
+                        Console.WriteLine("Số quá lớn, vui lòng nhập lại");
+                    } else
+                    {
+                        return so;
+                    }
+
                 }
                 else
                 {
