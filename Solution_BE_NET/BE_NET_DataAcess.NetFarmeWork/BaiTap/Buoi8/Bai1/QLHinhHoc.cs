@@ -9,7 +9,7 @@ namespace BE_NET_DataAcess.NetFarmeWork.BaiTap.Buoi8.Bai1
 {
     public class QLHinhHoc
     {
-        Validate validate = new Validate();
+        Validation validate = new Validation();
         public void Menu()
         {
             while (true)
@@ -18,18 +18,18 @@ namespace BE_NET_DataAcess.NetFarmeWork.BaiTap.Buoi8.Bai1
                 Console.WriteLine("1. Hình Chữ Nhật");
                 Console.WriteLine("2. Hình Tròn");
                 Console.WriteLine("0. Thoát");
-                double bai1 = validate.NhapSo("Chọn 0 - 2: ");
+                double bai1 = validate.InputNumber("Chọn 0 - 2: ");
                 switch (bai1)
                 {
                     case 1:
-                        double chieuDai = validate.NhapSo("Nhập chiều dài HCN: ");
-                        double chieuRong = validate.NhapSo("Nhập chiều rộng HCN: ");
+                        double chieuDai = validate.InputNumber("Nhập chiều dài HCN: ");
+                        double chieuRong = validate.InputNumber("Nhập chiều rộng HCN: ");
                         HinhChuNhat hinhChuNhat = new HinhChuNhat(chieuDai, chieuRong);
                         Console.WriteLine("Chu vi của hình chữ nhật là: " + hinhChuNhat.TinhChuVi());
                         Console.WriteLine("Diện tích của HCN là: " + hinhChuNhat.TinhDienTich());
                         break;
                     case 2:
-                        double banKinh = validate.NhapSo("Nhập bán kính hình tròn: ");
+                        double banKinh = validate.InputNumber("Nhập bán kính hình tròn: ");
                         HinhTron hinhTron = new HinhTron(banKinh);
                         Console.WriteLine("Chu vi của hình tròn là: " + hinhTron.TinhChuVi());
                         Console.WriteLine("Diện tich của hình tròn là: " + hinhTron.TinhDienTich());

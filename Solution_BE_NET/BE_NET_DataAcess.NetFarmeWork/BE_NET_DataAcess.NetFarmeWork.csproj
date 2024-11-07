@@ -57,7 +57,18 @@
     <Compile Include="BaiTap\Buoi8\Bai3\QLSanPham.cs" />
     <Compile Include="BaiTap\Buoi8\Bai3\Sach.cs" />
     <Compile Include="BaiTap\Buoi8\Bai3\SanPham.cs" />
-    <Compile Include="Common\Validate.cs" />
+    <Compile Include="Business\ProductManager.cs" />
+    <Compile Include="Common\Validation.cs" />
+    <Compile Include="DataObject\Employee.cs" />
+    <Compile Include="DataObject\ProductionStage.cs" />
+    <Compile Include="DataObject\Product.cs" />
+    <Compile Include="DataObject\ReturnData.cs" />
+    <Compile Include="Enum\EmployeeInsertStatus.cs" />
+    <Compile Include="Enum\ProductInsertStatus.cs" />
+    <Compile Include="Business\EmployeeManager.cs" />
+    <Compile Include="Enum\ProductionStageInsertStatus.cs" />
+    <Compile Include="Interface\IEmployee.cs" />
+    <Compile Include="Interface\IProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
