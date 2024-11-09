@@ -29,4 +29,14 @@ namespace BE_NET_DataAcess.NetFarmeWork.DataObject
     {
 
     }
+    //Dữ liệu phản hồi tạo đặt phòng
+    public class RoomCreationResponseData : ReturnData
+    {
+
+    }
+    //Dữ liệu phản hồi huỷ đặt phòng
+    public class RoomCancellationResponseData : ReturnData
+    {
+
+    }
 }

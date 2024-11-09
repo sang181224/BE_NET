@@ -1,4 +1,4 @@
-﻿using BE_NET_DataAcess.NetFarmeWork.Common;
+﻿    using BE_NET_DataAcess.NetFarmeWork.Common;
 using BE_NET_DataAcess.NetFarmeWork.DataObject;
 using BE_NET_DataAcess.NetFarmeWork.Enum;
 using System;
@@ -203,6 +203,11 @@ namespace BE_NET_DataAcess.NetFarmeWork.Interface
             {
                 Console.WriteLine("ID Nhân viên không tồn tại.");
             }
+        }
+
+        public EmployeeInsertResponseData ProductionStage_Insert(Employee employee)
+        {
+            throw new NotImplementedException();
         }
         #endregion
     }

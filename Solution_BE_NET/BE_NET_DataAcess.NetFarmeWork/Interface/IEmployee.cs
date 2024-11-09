@@ -10,5 +10,6 @@ namespace BE_NET_DataAcess.NetFarmeWork.Interface
     public interface IEmployee
     {
         EmployeeInsertResponseData Employee_Insert(Employee employee);
+        EmployeeInsertResponseData ProductionStage_Insert(Employee employee);
     }
 }
